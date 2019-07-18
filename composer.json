@@ -1,0 +1,6 @@
+{
+    "name": "fntc/fntc_theme",
+    "description": "FNTC theme based on the Bootstrap Barrio.",
+    "type": "drupal-custom-theme",
+    "minimum-stability": "dev"
+}

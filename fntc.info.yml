@@ -1,6 +1,6 @@
 name: FNTC
 type: theme
-description: 'FNTC theme based on the Bootstrap Barrio Theme.'
+description: 'FNTC theme based on the Bootstrap Barrio.'
 # version: VERSION
 # core: 8.x
 base theme: bootstrap_barrio
